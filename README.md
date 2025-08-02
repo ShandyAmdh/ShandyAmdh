@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shandy Amdh 👋
 
-<!--
-**ShandyAmdh/ShandyAmdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **UI/UX Designer** and **Front-End Developer** from Indonesia.
 
-Here are some ideas to get you started:
+💻 I build web interfaces using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 **Next.js** & **React.js**
+- 🎨 **Tailwind CSS**
+- ⚙️ **Laravel (for backend needs)**
+
+🔍 I focus on clean design, responsive layouts, and intuitive user experience.
+
+📫 Reach me at: shandy.amdh@email.com
+
+📁 Check out my work: [github.com/ShandyAmdh](https://github.com/ShandyAmdh)
