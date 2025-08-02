@@ -13,6 +13,6 @@ I’m a **UI/UX Designer** and **Front-End Developer** from Indonesia.
 
 📫 Reach me at: shandyamandha@gmail.com
 
-📸 Follow me on Instagram: [@shandy.amdh](https://www.instagram.com/shandyamandha/)
+📸 Follow me on Instagram: [@shandyamandha](https://www.instagram.com/shandyamandha/)
 
 📁 Check out my work: [github.com/ShandyAmdh](https://github.com/ShandyAmdh)
