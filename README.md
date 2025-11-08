@@ -1,4 +1,4 @@
-# Hi, I'm Shandy Amdh 👋
+# Hi, I'm Shandy Amandha 👋
 
 I’m a **UI/UX Designer** and **Front-End Developer** from Indonesia.
 
