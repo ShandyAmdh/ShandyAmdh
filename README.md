@@ -52,8 +52,8 @@ To start my professional journey as a Data Analyst in the retail or financial in
 
 ## 📫 Connect With Me
 
-📧 your_email@email.com  
-💼 LinkedIn: linkedin.com/in/yourprofile  
+📧 shandyamandha@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shandy-amandha-9907a1275/?locale=in 
 
 ---
 
