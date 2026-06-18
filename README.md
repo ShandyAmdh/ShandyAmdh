@@ -30,7 +30,7 @@ I am passionate about solving business problems using data-driven strategies and
 - **Excel (Advanced Formula, Pivot Table, Lookup, Data Cleaning)**
 - **SQL (Join, Aggregation, Subquery)**
 - **Python (Pandas, NumPy, Matplotlib)**
-- **Power BI / Looker Studio**
+- **Power BI**
 - **Git & GitHub**
 
 ---
