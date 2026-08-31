@@ -18,7 +18,6 @@ I am passionate about solving business problems using data-driven strategies and
 
 ✔ Data Cleaning & Data Preparation  
 ✔ Exploratory Data Analysis (EDA)  
-✔ Business Metrics Analysis (MoM, YoY, Growth Rate)  
 ✔ Root Cause Analysis (RCA)  
 ✔ KPI Monitoring & Performance Analysis  
 ✔ Data Visualization & Reporting  
@@ -29,7 +28,6 @@ I am passionate about solving business problems using data-driven strategies and
 
 - **Excel (Advanced Formula, Pivot Table, Lookup, Data Cleaning)**
 - **SQL (Join, Aggregation, Subquery)**
-- **Python (Pandas, NumPy, Matplotlib)**
 - **Power BI**
 - **Git & GitHub**
 
@@ -37,6 +35,7 @@ I am passionate about solving business problems using data-driven strategies and
 
 ## 📈 Project Experience
 
+- Gayanara Inventory & Restock Analysis
 - Retail Sales Growth Analysis  
 - Financial Tracking & Expense Monitoring Dashboard  
 - Customer Segmentation Analysis  
